@@ -1,0 +1,7 @@
+{
+  "name": "AssigmentShowPost",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
